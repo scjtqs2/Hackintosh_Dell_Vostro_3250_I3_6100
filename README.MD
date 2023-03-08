@@ -25,7 +25,7 @@ macOS Monterey
 
 使用 `Hackintool` -> `电源` -> `螺丝刀图标` 来修复电源相关的配置
 
-核显的vga口无解。请使用hdmi口连接显示器。
+## 核显的vga口无解。请使用hdmi口连接显示器。
 
 ### Win+Mac双系统解决Win系统时间时差问题
 
